@@ -1,2 +1,5 @@
 this is a new file 02
+<<<<<<< HEAD
 html css
+=======
+>>>>>>> 1c392fcccad6c52ef630566236c2bdea2f3ccd0d
